@@ -1,10 +1,10 @@
 ### Pauta (Sao Carlos)
-- O que sÃ£o Dados Abertos ?
-- SoluÃ§Ãµes e empresas que usam Dados Abertos
-- Os Dados Abertos e a Lei de Acesso a InformaÃ§Ã£o
-- A AdministraÃ§Ã£o PÃºblica e os Dados Abertos, o governo do sÃ©culo XXI
+- O que são Dados Abertos ?
+- Soluções e empresas que usam Dados Abertos
+- Os Dados Abertos e a Lei de Acesso a Informação
+- A Administração Pública e os Dados Abertos, o governo do século XXI
 
-https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fevents%2F1036929276324312%2F&sa=D&sntz=1&usg=AFQjCNH5pODyCWuj8wpNVbAdgKgsCC8sMQ
+https://www.facebook.com/events/1036929276324312/
 
 ### Mapatona de ciclovias
 - http://codigourbano.org/o-mapa-de-ciclovias-da-prefeitura-de-sao-paulo/
@@ -19,7 +19,7 @@ https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fevents%2F103692927
 - https://www.youtube.com/watch?v=W9p64DHptyM
 - https://www.youtube.com/watch?v=S-O4P4t8HfQ
 
-### VisualizaÃ§Ãµes
+### Visualizações
 - http://br.okfn.org/2014/12/01/brasil-ganha-ferramenta-de-visualizacao-de-orcamento-construida-com-a-open-knowledge/
 
 
